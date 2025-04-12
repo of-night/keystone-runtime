@@ -37,3 +37,4 @@ export BITS
 export OPTIONS_FLAGS
 make -C $EYRIE_SOURCE_DIR clean
 make -C $EYRIE_SOURCE_DIR
+
